@@ -81,10 +81,20 @@ oStudents who failed <br>
 <p>5. Visualization</p>
   <p>The project includes the following visualizations:</p>
 Bar charts (Department performance) <br>
+  <img width="375" height="322" alt="image" src="https://github.com/user-attachments/assets/987c825b-52b0-4ab0-a25a-eb74108c3c5b" />
+
 Pie charts (Gender distribution) <br>
+<img width="257" height="266" alt="image" src="https://github.com/user-attachments/assets/d1e1e01b-ca26-4a20-9110-0f703ed82cd2" />
+
 Histograms (Marks distribution) <br>
+<img width="337" height="293" alt="image" src="https://github.com/user-attachments/assets/87eff56b-fb54-40ea-9d27-e913414b971d" />
+
 Scatter plots (Attendance vs Marks) <br>
+<img width="425" height="337" alt="image" src="https://github.com/user-attachments/assets/52083649-8d63-4f10-bc4e-96537113db7c" />
+
 Heatmap (Correlation analysis) <br>
+<img width="711" height="570" alt="image" src="https://github.com/user-attachments/assets/7c1357eb-eb8f-4e34-87dc-b17b6264a8f3" />
+
 <p>
 Tools and Technologies</p>
 Python<br> 
